@@ -1,3 +1,6 @@
+For this level I tried to use only the tools and the methods introduced up to that chapter in the book. This task would probably be much faster with powerful tools like IDA/Ghidra/...
+
+
 The first thing is to run ltrace to find out what is happening:
 
 binary@binary-VirtualBox:~/code/chapter5$ ltrace -i ./lvl2
